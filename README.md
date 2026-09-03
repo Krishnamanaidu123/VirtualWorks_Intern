@@ -129,10 +129,11 @@ This project is for educational purposes only. All tools and techniques describe
 ## 📬 Contact
 
 **THOTA JANAKI RAMA KRISHNAMA NAIDU**  
-krishnamanaidu2526@gmail.com
-https://www.linkedin.com/in/thota-janaki-rama-krishnama-naidu-28453a2b6/
-github.com/Krishnamanaidu123
+ 
+ krishnamanaidu2526@gmail.com
 
----
+ https://www.linkedin.com/in/thota-janaki-rama-krishnama-naidu-28453a2b6/
+ 
+ github.com/Krishnamanaidu123
 
-> *"The only secure computer is one that is unplugged, locked in a vault, and buried 20 feet under the ground." – Gene Spafford*
+
