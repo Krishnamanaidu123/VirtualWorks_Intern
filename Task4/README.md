@@ -540,3 +540,4 @@ This exercise covered the entire security assessment lifecycle:
 
 This hands-on experience has provided invaluable insight into the mindset and methodology of security professionals, reinforcing the importance of ethical hacking practices and the need for continuous security improvement.
 
+**End of Task 4 Report**
