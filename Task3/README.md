@@ -367,3 +367,5 @@ To verify successful completion of this task for your internship portal, provide
 I have successfully acquired a strong foundation in networking principles, including IP addressing, DNS resolution, port identification, and protocol analysis. 
 Furthermore, I have practiced both passive and active reconnaissance techniques using industry-standard tools such as `dig`, `nslookup`, `whois`, `ping`, and `Nmap`. 
 By understanding the importance of ethics and authorization, I can apply these skills responsibly in future security assessments.
+
+**End of Task 3 Report**
