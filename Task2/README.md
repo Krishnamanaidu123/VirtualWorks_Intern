@@ -308,6 +308,3 @@ I have successfully deployed a fully functional, isolated cybersecurity virtual 
 This environment provides a safe space to explore ethical hacking methodologies, run vulnerability assessments, and practice penetration testing. 
 By mastering these fundamental lab skills, I have established a solid foundation for advanced security research and analysis.
 
----
-
-> *"The best way to predict the future is to create it." — Alan Kay*
